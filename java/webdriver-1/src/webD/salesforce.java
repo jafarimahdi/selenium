@@ -20,6 +20,8 @@ public class salesforce {
 		//driver.findElement(By.className("button r4 wide primary")).click();  ERROR
 		
 		driver.findElement(By.xpath("//*[@id='Login']")).click();
+		driver.findElement(By.cssSelector("div#error.loginError")).getText();
+		
 
 	}
 

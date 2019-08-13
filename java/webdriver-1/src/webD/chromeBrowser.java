@@ -19,6 +19,13 @@ public class chromeBrowser {
 		driver.findElement(By.name("pass")).sendKeys("123456789");
 		driver.findElement(By.linkText("Forgotten account?")).click();
 		
+		// From the fireFox Browser 
+		
+		driver.findElement(By.cssSelector("#email")).sendKeys("emialSelector");
+		driver.findElement(By.xpath("//*[@id=\"pass\"]")).sendKeys("123458788");
+		driver.findElement(By.xpath("//*[@id=\"login_form\"]/table/tbody/tr[3]/td[2]/div/a")).click();
+		 
+		
 	}
 }
 
