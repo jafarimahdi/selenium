@@ -13,7 +13,8 @@ public class updateDropDown {
 		driver.get("https://www.spicejet.com");
 	
 		driver.findElement(By.xpath("//div[@id='divpaxinfo']")).click();
-		Thread.sleep(2000L);
+			
+			Thread.sleep(2000L);
 		
 		System.out.println(driver.findElement(By.xpath("//div[@id='divpaxinfo']")).getText());
 
