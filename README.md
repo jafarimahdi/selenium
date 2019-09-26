@@ -1,6 +1,11 @@
 # selenium
 Test automation  
 
-1- Web Driver(chrome & FireFox,Safari)
-    a- insert Library
-    b-
+1- Web Driver(chrome & FireFox,Safari):
+
+    a- handel static dropDown,
+    b- handel dynamic dropDown,
+    c- practice with radio button,
+    d- handel Auto sagestive,
+    e- Assert.assert(false,true,eqouals),
+    f- Synchronization (implicit, explicit)and java(Thread.sleep( ))
