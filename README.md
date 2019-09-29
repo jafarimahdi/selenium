@@ -1,7 +1,7 @@
 # selenium
 Test automation  
 
-1- Web Driver(chrome & FireFox,Safari):
+1- Selenium (Web Driver):
 
     a- handel static dropDown,
     b- handel dynamic dropDown,
