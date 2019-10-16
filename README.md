@@ -1,13 +1,17 @@
 # selenium
 Test automation  
 
-1- Selenium (Web Driver):
+ Selenium (Web Driver):
 
-    a- handel static dropDown,
-    b- handel dynamic dropDown,
-    c- practice with radio button,
-    d- handel Auto sagestive,
-    e- Assert.assert(false,true,eqouals),
-    f- Synchronization (implicit, explicit)and java(Thread.sleep( ))
-    g- Action class => Hover mouse,
-    h- Habdel Frame and child windows
+    . handel static dropDown,
+    . handel dynamic dropDown,
+    . practice with radio button,
+    . handel Auto sagestive,
+    . Assert.assert(false,true,eqouals),
+    . Synchronization (implicit, explicit)and java(Thread.sleep( ))
+    . Action class => Hover mouse,
+    . Habdel Frame and child windows
+    
+Framworeks:
+
+1- TestNg

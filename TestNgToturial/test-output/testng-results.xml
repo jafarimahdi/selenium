@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-16T09:23:37 CEST" name="Suite" finished-at="2019-10-16T09:23:38 CEST" duration-ms="385">
+    <groups>
+    </groups>
+    <test started-at="2019-10-16T09:23:37 CEST" name="Test" finished-at="2019-10-16T09:23:37 CEST" duration-ms="138">
+      <class name="test.day4">
+        <test-method signature="loginApiHomeloan()[pri:0, instance:test.day4@6328d34a]" started-at="2019-10-16T09:23:37 CEST" name="loginApiHomeloan" finished-at="2019-10-16T09:23:37 CEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApiHomeloan -->
+        <test-method signature="mobileLoginHomeloan()[pri:0, instance:test.day4@6328d34a]" started-at="2019-10-16T09:23:37 CEST" name="mobileLoginHomeloan" finished-at="2019-10-16T09:23:37 CEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginHomeloan -->
+        <test-method signature="webloginHomeloan()[pri:0, instance:test.day4@6328d34a]" started-at="2019-10-16T09:23:37 CEST" name="webloginHomeloan" finished-at="2019-10-16T09:23:37 CEST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webloginHomeloan -->
+      </class> <!-- test.day4 -->
+      <class name="test.day2">
+        <test-method signature="ploan()[pri:0, instance:test.day2@2357d90a]" started-at="2019-10-16T09:23:37 CEST" name="ploan" finished-at="2019-10-16T09:23:37 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- test.day2 -->
+      <class name="test.day1">
+        <test-method signature="demo()[pri:0, instance:test.day1@7f9fcf7f]" started-at="2019-10-16T09:23:37 CEST" name="demo" finished-at="2019-10-16T09:23:37 CEST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="secound()[pri:0, instance:test.day1@7f9fcf7f]" started-at="2019-10-16T09:23:37 CEST" name="secound" finished-at="2019-10-16T09:23:37 CEST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secound -->
+      </class> <!-- test.day1 -->
+    </test> <!-- Test -->
+    <test started-at="2019-10-16T09:23:38 CEST" name="Carlon" finished-at="2019-10-16T09:23:38 CEST" duration-ms="16">
+      <class name="test.day3">
+        <test-method signature="loginApiCarloan()[pri:0, instance:test.day3@2c34f934]" started-at="2019-10-16T09:23:38 CEST" name="loginApiCarloan" finished-at="2019-10-16T09:23:38 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApiCarloan -->
+        <test-method signature="mobileLoginCarloan()[pri:0, instance:test.day3@2c34f934]" started-at="2019-10-16T09:23:38 CEST" name="mobileLoginCarloan" finished-at="2019-10-16T09:23:38 CEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarloan -->
+        <test-method signature="webloginCarloan()[pri:0, instance:test.day3@2c34f934]" started-at="2019-10-16T09:23:38 CEST" name="webloginCarloan" finished-at="2019-10-16T09:23:38 CEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webloginCarloan -->
+      </class> <!-- test.day3 -->
+    </test> <!-- Carlon -->
+  </suite> <!-- Suite -->
+</testng-results>
