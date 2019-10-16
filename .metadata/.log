@@ -3544,3 +3544,99 @@ java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org
   Class:     org.testng.remote.RemoteTestNG
   Args:      -serport 53900 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
 java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 53900 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 13:19:28.972
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54254 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54254 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 13:20:40.670
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54264 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54264 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 13:21:11.942
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54269 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54269 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 13:21:57.588
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54279 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54279 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 13:31:55.280
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54312 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54312 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 14:52:30.345
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54538 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54538 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 14:53:27.551
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54549 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54549 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 14:53:50.632
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54553 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54553 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 14:54:17.414
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54561 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54561 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 15:46:33.614
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54624 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54624 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng2.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 16:01:44.068
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54640 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54640 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2019-10-16 16:07:14.710
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar /Users/JM/greenFox/selenium/TestNgToturial/bin /Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar /Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 54653 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml
+java -ea -classpath /Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/480/0/.cp/lib/testng-remote.jar:/Users/JM/greenFox/selenium/TestNgToturial/bin:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.testng_7.0.0.r201908191551.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/com.beust.jcommander_1.72.0.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.apache-extras.beanshell.bsh_2.0.0.b6.jar:/Applications/Eclipse.app/Contents/Eclipse/plugins/org.yaml.snakeyaml_1.21.0.jar org.testng.remote.RemoteTestNG -serport 54653 -protocol json -d /Users/JM/greenFox/selenium/TestNgToturial/test-output /Users/JM/greenFox/selenium/TestNgToturial/testng.xml

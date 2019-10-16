@@ -4,7 +4,11 @@
 
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="test.day1" />
+			<class name="test.day1">
+				<methods>
+					<include name="secound" />
+				</methods>
+			</class>
 			<class name="test.day2" />
 			<class name="test.day4" />
 		</classes>
@@ -12,7 +16,13 @@
 
 	<test name="Carlon">
 		<classes>
-			<class name="test.day3" />
+			<class name="test.day3">
+
+				<methods>
+					<exclude name="Api.*" /> <!-- regular expression: choose any method include this name in the class-->
+				</methods>
+
+			</class>
 		</classes>
 	</test>
 </suite>

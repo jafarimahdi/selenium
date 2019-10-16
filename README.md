@@ -15,3 +15,8 @@ Test automation
 Framworeks:
 
 1- TestNg
+    
+    .@Test
+    .Xml < suite, test, classes, class, methods, exclude && include />
+    .@BeforeTest && AfterTest
+    .

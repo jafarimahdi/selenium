@@ -15,7 +15,7 @@ public class day3 {
 	}
 
 	@Test
-	public void loginApiCarloan() {
+	public void ApiLoginCarloan() {
 		System.out.println("ApiLoginCar");
 	}
 }
