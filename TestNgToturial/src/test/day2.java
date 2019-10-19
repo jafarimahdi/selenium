@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class day2 {
 
-	@Test
+	@Test(groups = { "smoke" })
 	public void ploan() {
 		System.out.println("secound class");
 	}

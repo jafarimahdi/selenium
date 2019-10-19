@@ -1,57 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="9" passed="7" failed="0" skipped="0">
+<testng-results ignored="3" total="11" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-10-16T16:07:15 CEST" name="Suite" finished-at="2019-10-16T16:07:15 CEST" duration-ms="372">
+  <suite started-at="2019-10-19T11:06:16 CEST" name="Suite" finished-at="2019-10-19T11:06:17 CEST" duration-ms="217">
     <groups>
+      <group name="smoke">
+        <method signature="day2.ploan()[pri:0, instance:test.day2@29f69090]" name="ploan" class="test.day2"/>
+        <method signature="day4.mobileLoginHomeloan()[pri:0, instance:test.day4@589b3632]" name="mobileLoginHomeloan" class="test.day4"/>
+        <method signature="day3.mobileLoginCarloan()[pri:0, instance:test.day3@436a4e4b]" name="mobileLoginCarloan" class="test.day3"/>
+      </group> <!-- smoke -->
     </groups>
-    <test started-at="2019-10-16T16:07:15 CEST" name="Test" finished-at="2019-10-16T16:07:15 CEST" duration-ms="83">
+    <test started-at="2019-10-19T11:06:16 CEST" name="Test" finished-at="2019-10-19T11:06:17 CEST" duration-ms="104">
       <class name="test.day4">
-        <test-method signature="loginApiHomeloan()[pri:0, instance:test.day4@3bbc39f8]" started-at="2019-10-16T16:07:15 CEST" name="loginApiHomeloan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="2" status="PASS">
+        <test-method signature="loginApiHomeloan()[pri:0, instance:test.day4@589b3632]" started-at="2019-10-19T11:06:17 CEST" name="loginApiHomeloan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApiHomeloan -->
-        <test-method signature="mobileLoginHomeloan()[pri:0, instance:test.day4@3bbc39f8]" started-at="2019-10-16T16:07:15 CEST" name="mobileLoginHomeloan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="2" status="PASS">
+        <test-method signature="mobileLoginHomeloan()[pri:0, instance:test.day4@589b3632]" started-at="2019-10-19T11:06:17 CEST" name="mobileLoginHomeloan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobileLoginHomeloan -->
-        <test-method signature="webloginHomeloan()[pri:0, instance:test.day4@3bbc39f8]" started-at="2019-10-16T16:07:15 CEST" name="webloginHomeloan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="19" status="PASS">
+        <test-method signature="webloginHomeloan()[pri:0, instance:test.day4@589b3632]" started-at="2019-10-19T11:06:17 CEST" name="webloginHomeloan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webloginHomeloan -->
       </class> <!-- test.day4 -->
       <class name="test.day2">
-        <test-method is-config="true" signature="prerequeiste()[pri:0, instance:test.day2@67e2d983]" started-at="2019-10-16T16:07:15 CEST" name="prerequeiste" finished-at="2019-10-16T16:07:15 CEST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="prerequeiste()[pri:0, instance:test.day2@29f69090]" started-at="2019-10-19T11:06:16 CEST" name="prerequeiste" finished-at="2019-10-19T11:06:16 CEST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prerequeiste -->
-        <test-method signature="ploan()[pri:0, instance:test.day2@67e2d983]" started-at="2019-10-16T16:07:15 CEST" name="ploan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="2" status="PASS">
+        <test-method signature="ploan()[pri:0, instance:test.day2@29f69090]" started-at="2019-10-19T11:06:17 CEST" name="ploan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ploan -->
       </class> <!-- test.day2 -->
       <class name="test.day1">
-        <test-method signature="secound()[pri:0, instance:test.day1@5ea434c8]" started-at="2019-10-16T16:07:15 CEST" name="secound" finished-at="2019-10-16T16:07:15 CEST" duration-ms="6" status="PASS">
+        <test-method signature="secound()[pri:0, instance:test.day1@ca263c2]" started-at="2019-10-19T11:06:16 CEST" name="secound" finished-at="2019-10-19T11:06:17 CEST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secound -->
-        <test-method is-config="true" signature="lastexecute()[pri:0, instance:test.day1@5ea434c8]" started-at="2019-10-16T16:07:15 CEST" name="lastexecute" finished-at="2019-10-16T16:07:15 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="lastexecute()[pri:0, instance:test.day1@ca263c2]" started-at="2019-10-19T11:06:17 CEST" name="lastexecute" finished-at="2019-10-19T11:06:17 CEST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lastexecute -->
       </class> <!-- test.day1 -->
     </test> <!-- Test -->
-    <test started-at="2019-10-16T16:07:15 CEST" name="Carlon" finished-at="2019-10-16T16:07:15 CEST" duration-ms="8">
+    <test started-at="2019-10-19T11:06:17 CEST" name="Carlon" finished-at="2019-10-19T11:06:17 CEST" duration-ms="29">
       <class name="test.day3">
-        <test-method signature="mobileLoginCarloan()[pri:0, instance:test.day3@14ec4505]" started-at="2019-10-16T16:07:15 CEST" name="mobileLoginCarloan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:16 CEST" name="BeforeSuite" finished-at="2019-10-19T11:06:16 CEST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="beforeClass" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="beforeMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MobileSingOutCarlon()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="MobileSingOutCarlon" finished-at="2019-10-19T11:06:17 CEST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSingOutCarlon -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="AfterMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="beforeMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="mobileLoginCarloan()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="mobileLoginCarloan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobileLoginCarloan -->
-        <test-method signature="webloginCarloan()[pri:0, instance:test.day3@14ec4505]" started-at="2019-10-16T16:07:15 CEST" name="webloginCarloan" finished-at="2019-10-16T16:07:15 CEST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="AfterMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="beforeMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="webloginCarloan(java.lang.String)[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="webloginCarloan" finished-at="2019-10-19T11:06:17 CEST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaclickacademy.com ]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webloginCarloan -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="AfterMethod" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.day3@436a4e4b]" started-at="2019-10-19T11:06:17 CEST" name="afterClass" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
       </class> <!-- test.day3 -->
+      <class name="test.day1">
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:test.day1@ca263c2]" started-at="2019-10-19T11:06:17 CEST" name="AfterSuite" finished-at="2019-10-19T11:06:17 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- test.day1 -->
     </test> <!-- Carlon -->
   </suite> <!-- Suite -->
 </testng-results>

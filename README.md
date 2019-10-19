@@ -3,20 +3,31 @@ Test automation
 
  Selenium (Web Driver):
 
-    . handel static dropDown,
-    . handel dynamic dropDown,
-    . practice with radio button,
-    . handel Auto sagestive,
-    . Assert.assert(false,true,eqouals),
+    . handel static dropDown
+    . handel dynamic dropDown
+    . practice with radio button
+    . handel Auto sagestive
+    . Assert.assert(false,true,eqouals)
     . Synchronization (implicit, explicit)and java(Thread.sleep( ))
-    . Action class => Hover mouse,
-    . Habdel Frame and child windows
+    . Action class(Hover mouse)
+    . Handel Frame and child windows
     
 Framworeks:
 
 1- TestNg
     
     .@Test
-    .Xml < suite, test, classes, class, methods, exclude && include />
+    .Xml < suite, test, classes, class, methods => exclude && include, packages, package />
     .@BeforeTest && AfterTest
-    .
+    .@BeforeSuite && @AfetrSuite
+    .@BeforeMethod && @AfterMethod
+    .@BeforeClass && @AfterClass
+Attribute Helper:
+
+    .@Test(grups={" "}),   In Xml => <groups && run => include && exclude />
+    .@Test(dependsOnMethod={" "})
+    .@Test(enabled= false || true)
+    .@Test(timeOut=3000)
+Parameterising:
+
+    @Parameters({" "}), In Xml => <parameter name=" " value=" " />
