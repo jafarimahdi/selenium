@@ -30,4 +30,11 @@ Attribute Helper:
     .@Test(timeOut=3000)
 Parameterising:
 
-    @Parameters({" "}), In Xml => <parameter name=" " value=" " />
+    .@Parameters({" "}), In Xml => <parameter name=" " value=" " /> *folder level*
+    . @Test(dataProvider=" ") => @DataProvider && Object[][]         *Mehtod level*
+    
+Listener: catch the failed Test methods
+    
+    .implement interface listener class && in XML => <Listeners, Listener class-name=" " />
+    
+    .TestNg Report with Html file

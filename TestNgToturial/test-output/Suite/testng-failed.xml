@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Carlon(failed)">
+  <parameter name="URL" value="qaclickacademy.com "/>
+  <listeners>
+    <listener class-name="test.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Personal Loan(failed)">
+    <parameter name="URL" value="personalLoan.com"/>
     <classes>
-      <class name="test.day3">
+      <class name="test.day1">
         <methods>
-          <include name="webloginCarloan"/>
-          <include name="beforeClass"/>
-          <include name="BeforeSuite"/>
-          <include name="beforeMethod"/>
-          <include name="afterClass"/>
-          <include name="AfterMethod"/>
+          <include name="demo"/>
+          <include name="AfterSuite"/>
+          <include name="lastexecute"/>
         </methods>
-      </class> <!-- test.day3 -->
+      </class> <!-- test.day1 -->
     </classes>
-  </test> <!-- Carlon(failed) -->
+  </test> <!-- Personal Loan(failed) -->
 </suite> <!-- Failed suite [Suite] -->
