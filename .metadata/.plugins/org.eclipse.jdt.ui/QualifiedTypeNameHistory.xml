@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
-    <fullyQualifiedTypeName name="org.testng.Assert"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
@@ -17,4 +16,13 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeOptions"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Parameters"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+    <fullyQualifiedTypeName name="org.testng.ITestListener"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
 </qualifiedTypeNameHistroy>

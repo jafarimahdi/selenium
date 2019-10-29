@@ -1,7 +1,7 @@
-# selenium
-Test automation  
+# Selenium
+## Test Automation  
 
- Selenium (Web Driver):
+ #### Selenium (WebDriver):
 
     . handel static dropDown
     . handel dynamic dropDown
@@ -11,29 +11,29 @@ Test automation
     . Synchronization (implicit, explicit)and java(Thread.sleep( ))
     . Action class(Hover mouse)
     . Handel Frame and child windows
-    
-Framworeks:
+  ---- 
+# Framworeks:
 
-1- TestNg
+## 1- TestNg
     
     .@Test
-    .Xml < suite, test, classes, class, methods => exclude && include, packages, package />
+    .Xml < suite, test, classes, class, methods => exclude ||include, packages, package />
     .@BeforeTest && AfterTest
     .@BeforeSuite && @AfetrSuite
     .@BeforeMethod && @AfterMethod
     .@BeforeClass && @AfterClass
-Attribute Helper:
+#### Attribute Helper:
 
-    .@Test(grups={" "}),   In Xml => <groups && run => include && exclude />
+    .@Test(grups={" "}),   In Xml => < groups && run => include || exclude />
     .@Test(dependsOnMethod={" "})
     .@Test(enabled= false || true)
     .@Test(timeOut=3000)
-Parameterising:
+#### Parameterising:
 
     .@Parameters({" "}), In Xml => <parameter name=" " value=" " /> *folder level*
-    . @Test(dataProvider=" ") => @DataProvider && Object[][]         *Mehtod level*
+    .@Test(dataProvider=" ") => @DataProvider && Object[][]         *Mehtod level*
     
-Listener: catch the failed Test methods
+#### Listener: catch failed Test
     
     .implement interface listener class && in XML => <Listeners, Listener class-name=" " />
     
