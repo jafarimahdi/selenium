@@ -12,13 +12,13 @@
     . Action class(Hover mouse)
     . Handel Frame and child windows
   ---- 
-# Framworeks:
+# Framworks
 
 ## 1- TestNg
     
     .@Test
     .Xml < suite, test, classes, class, methods => exclude ||include, packages, package />
-    .@BeforeTest && AfterTest
+    .@BeforeTest && @AfterTest
     .@BeforeSuite && @AfetrSuite
     .@BeforeMethod && @AfterMethod
     .@BeforeClass && @AfterClass
@@ -38,3 +38,11 @@
     .implement interface listener class && in XML => <Listeners, Listener class-name=" " />
     
     .TestNg Report with Html file
+    
+    
+## 2- Cucumber(Gherkin)
+
+    .Dependencies and manage build path in Pom.Xml(https://mvnrepository.com/) Add JUnit/Selenium....
+
+
+    
