@@ -17,12 +17,12 @@
 
 ## 1- TestNg
     
-    .'@Test'
+    .`@Test`
     .Xml < suite, test, classes, class, methods => exclude ||include, packages, package />
-    .'@BeforeTest' && '@AfterTest'
-    .'@BeforeSuite' && '@AfetrSuite'
-    .'@BeforeMethod' && '@AfterMethod'
-    .'@BeforeClass' && '@AfterClass'
+    .`@BeforeTest` && `@AfterTest`
+    .`@BeforeSuite` && `@AfetrSuite`
+    .`@BeforeMethod` && `@AfterMethod`
+    .`@BeforeClass` && `@AfterClass`
 #### Attribute Helper:
 
     .@Test(grups={" "}),   In Xml => < groups && run => include || exclude />
@@ -44,14 +44,14 @@
     
 ## 2- Cucumber(Gherkin)
 
-    .Add 'Dependencies' and manage buildpath in 'Pom.Xml'[mvnrepository](https://mvnrepository.com) Add JUnit/Selenium....
+    .Add `Dependencies` and manage buildpath in `Pom.Xml`[mvnrepository](https://mvnrepository.com) Add JUnit/Selenium....
     
-    .'Feauture'  // make Feautre file
-    .'Scenario'  // write Scenarios
-    .'Given'
-    .'But'
-    .'Then'
-    .'And'
+    .`Feauture`  // make Feautre file
+    .`Scenario`  // write Scenarios
+    .`Given`
+    .`But`
+    .`Then`
+    .`And`
 
 
     
