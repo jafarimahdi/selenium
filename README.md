@@ -1,7 +1,8 @@
-# Selenium
-## Test Automation  
+# Test Automation  
+***
 
- #### Selenium (WebDriver):
+
+ ### Selenium (WebDriver):
 
     . handel static dropDown
     . handel dynamic dropDown
@@ -11,17 +12,17 @@
     . Synchronization (implicit, explicit)and java(Thread.sleep( ))
     . Action class(Hover mouse)
     . Handel Frame and child windows
-  ---- 
-# Framworks
+---- 
+# Framworks:
 
 ## 1- TestNg
     
-    .@Test
+    .'@Test'
     .Xml < suite, test, classes, class, methods => exclude ||include, packages, package />
-    .@BeforeTest && @AfterTest
-    .@BeforeSuite && @AfetrSuite
-    .@BeforeMethod && @AfterMethod
-    .@BeforeClass && @AfterClass
+    .'@BeforeTest' && '@AfterTest'
+    .'@BeforeSuite' && '@AfetrSuite'
+    .'@BeforeMethod' && '@AfterMethod'
+    .'@BeforeClass' && '@AfterClass'
 #### Attribute Helper:
 
     .@Test(grups={" "}),   In Xml => < groups && run => include || exclude />
@@ -38,18 +39,19 @@
     .implement interface listener class && in the XML => <Listeners, Listener class-name=" " />
     
     .TestNg Report with Html file
+***    
     
     
 ## 2- Cucumber(Gherkin)
 
-    .Add "Dependencies" and manage buildpath in "Pom.Xml"(https://mvnrepository.com/) Add JUnit/Selenium....
+    .Add 'Dependencies' and manage buildpath in 'Pom.Xml'[mvnrepository](https://mvnrepository.com) Add JUnit/Selenium....
     
-    ."Feauture"  // make Feautre file
-    ."Scenario"  // write Scenario
-    ."Given"
-    ."But"
-    ."Then"
-    ."And"
+    .'Feauture'  // make Feautre file
+    .'Scenario'  // write Scenarios
+    .'Given'
+    .'But'
+    .'Then'
+    .'And'
 
 
     
