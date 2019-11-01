@@ -35,14 +35,21 @@
     
 #### Listener: catch failed Test
     
-    .implement interface listener class && in XML => <Listeners, Listener class-name=" " />
+    .implement interface listener class && in the XML => <Listeners, Listener class-name=" " />
     
     .TestNg Report with Html file
     
     
 ## 2- Cucumber(Gherkin)
 
-    .Dependencies and manage build path in Pom.Xml(https://mvnrepository.com/) Add JUnit/Selenium....
+    .Add "Dependencies" and manage buildpath in "Pom.Xml"(https://mvnrepository.com/) Add JUnit/Selenium....
+    
+    ."Feauture"  // make Feautre file
+    ."Scenario"  // write Scenario
+    ."Given"
+    ."But"
+    ."Then"
+    ."And"
 
 
     
