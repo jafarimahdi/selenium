@@ -19,6 +19,7 @@
         driver.getTitle();
     }
     ```
+---
 * __Methods:__
 
     `driver.getTitle()` `driver.getCurrentUrl()` `driver.getPageSource()` 
@@ -27,41 +28,76 @@
 * __Navigation Methods:__
 
     `driver.navigate().to("new url")` `driver.navigate().back()` `driver.navigate().forward()` `driver.navigate().refresh()`
+---
 * __Locator identifiers:__
     
+    `driver.findElements(By. )`.className("") .TagName("")
+
     `driver.findElement(By. )`
         
        
      
-|  1 Step           |  2 Step                       |
-| ----------------- |:-----------------------------:|
-| By.Id("")         | .SendKeys(" ")  .getText()    |
-| By.ClassName("")  | .Click()
-| By.XPath("")      |
-| By.CssSelector("")|
+|findElement(By.  ) | 2 Step                            |
+| ----------------- |-----------------------------:     |
+| By.Id("")         |.SendKeys(Keys.`any keyboard key`) |
+| By.ClassName("")  |.SendKeys(" ") .getText()          |
+| By.XPath("")      |.getText() .Click()   .clear()     |
+| By.CssSelector("")|.size() get(index)
 | By.LinkText("")   |
 | By.Name("")       |
 | By.TagName("")    |
 
+---
+#### __Regular Expression__ concept in dynamic Selecting ####
 
-* __Regular Expression__ concept in Selecting
+* __1-Realtive:__
 
-    `Xpath Regular Expression` : //tagName[contains(@attribute, 'value')]  => //input[contains(@name,'userName')]
+    `Xpath `Regular Expression : //tagName[contains(@attribute, 'value')]  => //input[contains(@name,'userName')]
 
-    `CssSelector Regular Expression` : tagName[Attribute*='value'] =>
+    `CssSelector ` Regular Expression : tagName[Attribute*='value'] =>
     input[name*='userName']
 
+*   __2-Absolute:__
+
+    `Parent child xpath` Html : //section/child/child/select
+
+* __validation concept__ : check the select item is correct before run all Test in Chrome & FireFox
+ `Console`:
+
+   in console : `$x( Xpath )` || 
+ `$( CssSelector )`
+
+---
+#### __DropDown :__ ####
+
+* 1- __`Static dropDown`__  with __`Select()`__ class
+
+```java
+    Select item = new Select(driver.findElement(By.   ));
+
+    item.selectByValue(""); || item.selectByIndex(); || item.selectByVisibleText("");
+```
+
+* 2a -__`Dynamic dropDown :`__ __index__
+
+     If there is more than 1 dynamic dropDown for select the target in 2 dropDown you have to use the dropDown index [ ] also
+
+* 2b -__`Dynamic dropDown :`__  __parent child relationShip__
+
+     select directly dropDown and then select the target => parentXpath`+ space +`childXpath  (target)
+
+* 3 -__`Auto suggestive dropDown :`__
+
+    Test the auto Suggestive with methods: `sendkeys(key. )` `sendKeys("")` `clear()` `getText()`
 
 
+---
 
-* handel static dropDown
-* handel dynamic dropDown
-* practice with radio button
-* handel Auto suggestive
 * Assert.assert(false,true,equals)
 *  Synchronization (implicit, explicit)and java(Thread.sleep( ))
 *  Action class(Hover mouse)
 *  Handel Frame and child windows
+* handel Radio button
 ---- 
 
 ## 1- __TestNg__
