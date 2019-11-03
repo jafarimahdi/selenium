@@ -2,14 +2,14 @@
 ***
 
 
- ### Selenium (WebDriver) :
+ ## __Selenium (WebDriver) :__
 
 * Manage Selenium file to project
 
     * Add __Selenium__ `JRE` file to Library and download/manage __browser__ file to project and Import browser `Packege`
     ```java
     public class Tutorial{
-        System.setProperty("webdriver.chrome.driver", "location file seved ");
+        System.setProperty("webdriver.chrome.driver", "location file saved ");
     //  System.SetProperty("webdriver.gecko.driver","location file saved");
 
          WebDriver driver = new ChromeDriver();
@@ -19,14 +19,37 @@
         driver.getTitle();
     }
     ```
-* Methods:
+* __Methods:__
 
     `driver.getTitle()` `driver.getCurrentUrl()` `driver.getPageSource()` 
+
     `driver.close()` `driver.quit()`
-* Navigation Methods:
+* __Navigation Methods:__
 
     `driver.navigate().to("new url")` `driver.navigate().back()` `driver.navigate().forward()` `driver.navigate().refresh()`
+* __Locator identifiers:__
+    
+    `driver.findElement(By. )`
+        
+       
+     
+|  1 Step           |  2 Step                       |
+| ----------------- |:-----------------------------:|
+| By.Id("")         | .SendKeys(" ")  .getText()    |
+| By.ClassName("")  | .Click()
+| By.XPath("")      |
+| By.CssSelector("")|
+| By.LinkText("")   |
+| By.Name("")       |
+| By.TagName("")    |
 
+
+* __Regular Expression__ concept in Selecting
+
+    `Xpath Regular Expression` : //tagName[contains(@attribute, 'value')]  => //input[contains(@name,'userName')]
+
+    `CssSelector Regular Expression` : tagName[Attribute*='value'] =>
+    input[name*='userName']
 
 
 
@@ -40,12 +63,12 @@
 *  Action class(Hover mouse)
 *  Handel Frame and child windows
 ---- 
-# Framworks:
 
-## 1- TestNg
+## 1- __TestNg__
     
-* `@Test `
+
 * `Xml ` < suite, test, classes, class, methods => exclude ||include, packages, package />
+* `@Test`
 * `@BeforeTest ` && ` @AfterTest`
 * `@BeforeSuite ` && ` @AfterSuite`
 * `@BeforeMethod ` && ` @AfterMethod`
@@ -71,7 +94,7 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
 ***    
     
     
-## 2- Cucumber(Gherkin)
+## 2- __Cucumber(Gherkin)__
 
 * Add ` Dependencies ` from the [Mvnrepository](https://mvnrepository.com 'https:mvnrepository.com') in ` Pom.Xml ` and manage buildPath
     

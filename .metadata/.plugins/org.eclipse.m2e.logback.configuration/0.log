@@ -869,3 +869,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact velocity-tool
 2019-11-01 23:08:27,799 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
 2019-11-01 23:08:27,800 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-01 23:08:27,801 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-02 23:10:08,783 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 23:10:08,784 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-02 23:10:08,786 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-02 23:10:08,787 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
