@@ -2,7 +2,7 @@
 ***
 
 
- ## __Selenium (WebDriver) :__
+ ### Selenium (WebDriver) 
 
 * Manage Selenium file to project
 
@@ -20,37 +20,39 @@
     }
     ```
 ---
-* __Methods:__
+### WebDriver Methods:
+   __driver.__
 
-    `driver.getTitle()` `driver.getCurrentUrl()` `driver.getPageSource()` 
+`.get(url )` `.getTitle()` `.getCurrentUrl()` `.getPageSource()` `.getWindowsHandle()``.getWindowsHandles()` `.switchTo()` `.navigate()` `.manage()`
 
-    `driver.close()` `driver.quit()`
+`driver.close()` `driver.quit()`
 * __Navigation Methods:__
 
     `driver.navigate().to("new url")` `driver.navigate().back()` `driver.navigate().forward()` `driver.navigate().refresh()`
 ---
-* __Locator identifiers:__
-    
-    `driver.findElements(By. )`.className("") .TagName("")
 
-    `driver.findElement(By. )`
+### `Locator identifiers:` 
+    
+Single Target:`driver.findElement(By. )`&  Several Target:`driver.findElements(By. )`
         
-       
+[Selenium(webDriver)  Methods](http://onlinetraining.etestinghub.com/webdriver-methods-web-elements/)       
      
-|findElement(By.  ) | 2 Step                            |
-| ----------------- |-----------------------------:     |
-| By.Id("")         |.SendKeys(Keys.`any keyboard key`) |
-| By.ClassName("")  |.SendKeys(" ") .getText()          |
-| By.XPath("")      |.getText() .Click()   .clear()     |
-| By.CssSelector("")|.size() get(index)
-| By.LinkText("")   |
-| By.Name("")       |
-| By.TagName("")    |
+|1- findElement(By.  )    | 2- Web operation on web elements |
+| ----------------------- |--------------------------------: |
+| By.Id("")               |.SendKeys(Keys.`keyboard key`)
+| By.ClassName("")        |.SendKeys(" ")  continue()    
+| By.XPath("")            |.Click( )  .clear( ) .isSelected( )
+| By.CssSelector("")      |.getAttribute( ) .getTagName( )
+| By.LinkText("")         |. getText( ) .getLocation( )
+| By.Name("")             |.isDisplayed( ) .isEnabled( )
+| By.TagName("")          |
 
 ---
-#### __Regular Expression__ concept in dynamic Selecting ####
 
-* __1-Realtive:__
+### ` Regular Expression`   
+__concept in dynamic Selecting__
+
+* __1-Relative:__
 
     `Xpath `Regular Expression : //tagName[contains(@attribute, 'value')]  => //input[contains(@name,'userName')]
 
@@ -68,19 +70,22 @@
  `$( CssSelector )`
 
 ---
-#### __DropDown :__ ####
+### ` DropDown :`
 
 * 1- __`Static dropDown`__  with __`Select()`__ class
 
 ```java
+public class Tutorial{
+
     Select item = new Select(driver.findElement(By.   ));
 
     item.selectByValue(""); || item.selectByIndex(); || item.selectByVisibleText("");
+}
 ```
 
 * 2a -__`Dynamic dropDown :`__ __index__
 
-     If there is more than 1 dynamic dropDown for select the target in 2 dropDown you have to use the dropDown index [ ] also
+     If there is more than 1 dynamic dropDown for select the target in 2 dropDown you can use the dropDown index [ ] also
 
 * 2b -__`Dynamic dropDown :`__  __parent child relationShip__
 
@@ -93,22 +98,98 @@
 
 ---
 
-* Assert.assert(false,true,equals)
-*  Synchronization (implicit, explicit)and java(Thread.sleep( ))
-*  Action class(Hover mouse)
+### ` PopUp ` 
+
+* 1- `javaScript popUp : ` Use ` SwitchTo().alert() ` Methods
+
+    when you have popUp and you can't get any Html path or attribute for selecting
+
+```java
+public class Tutorial{
+// after rich the website and have popUp
+
+        driver.switchTo()alert().accept();   
+// or   driver.switchTo().alert().dismiss();
+//      driver.switchTo().alert().getText();    //text in the popup
+//      driver.switchTo().alert().sendKeys(" "); and more ...
+
+}
+```
+*  2- `Web related popUp :`
+
+    just like normal case select the Target by: findElement(By. )
+---
+
+### `Assertions :`
+
+Import TestNg JRE to Library or get Plugin 
+* __`Assert.assertEquals(expect , actual )`__
+* __`Assert.assertTrue(  )`__
+* __`Assert.assertFalse( )`__
+---
+### `Handel Calender`
+
+    How Select current day
+    How Select future  day
+
+---
+### `Synchronization :`
+
+* 1-__`implicit waite:`__
+
+    Declare globally wait for n number seconds before throw exception or test fail and return result from Dom
+
+```java
+public class Tutorial{
+    System.setProperty("webdriver.chrome.driver", "location file saved ");
+    WebDriver driver = new ChromeDriver();
+
+    driver.manage().timeouts().implicitlywait(5,TimeUnit.SECONDS) //wait for 5 sec globally
+
+}
+
+```
+* 2-__`explicit waite :`__  `WebDriverWait( )` class
+
+    Target specific element or scenario to wait for n number seconds before throw exception [check for more and syntax...](https://www.swtestacademy.com/selenium-webdriver-wait/)
+```java
+public class Tutorial{
+    WebDriverWait waitHere = new WebDriverWait(driver, 20);
+
+    waitHere.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(' '))); // just for this target
+
+//  waitHere.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath('')));
+//  waitHere.until(ExpectedConditions.elementToBeClickable(BY.xpath('')));
+//  waitHere.until(ExpectedConditions.presenceOfElementLocated(By.xpath('')));
+    }
+```
+[More Methods...](https://selenium.dev/selenium/docs/api/java/org/openqa/selenium/support/ui/ExpectedConditions.html)
+
+* 3-__`java: Thread.sleep( )`__
+
+    Holding the test for n number of seconds 
+
+    Thread.sleep(5000L);   // waiting for the 5 Seconds
+
+---
+### Actions:  
+ class(Hover mouse)
+
+
+---
 *  Handel Frame and child windows
-* handel Radio button
+* handel Radio Button and checkBox
 ---- 
 
 ## 1- __TestNg__
     
 
-* `Xml ` < suite, test, classes, class, methods => exclude ||include, packages, package />
 * `@Test`
-* `@BeforeTest ` && ` @AfterTest`
-* `@BeforeSuite ` && ` @AfterSuite`
 * `@BeforeMethod ` && ` @AfterMethod`
 * `@BeforeClass ` && ` @AfterClass`
+* `@BeforeTest ` && ` @AfterTest`
+* `@BeforeSuite ` && ` @AfterSuite`
+* `Xml ` < suite, test, classes, class, methods => exclude ||include, packages, package />
 
 #### Attribute Helper:
 
