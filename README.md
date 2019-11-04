@@ -1,8 +1,5 @@
 # Test Automation  
-***
-
-
- ### Selenium (WebDriver) 
+### Selenium (WebDriver) 
 
 * Manage Selenium file to project
 
@@ -23,7 +20,7 @@
 ### WebDriver Methods:
    __driver.__
 
-`.get(url )` `.getTitle()` `.getCurrentUrl()` `.getPageSource()` `.getWindowsHandle()``.getWindowsHandles()` `.switchTo()` `.navigate()` `.manage()`
+`.get(url )` `.getTitle()` `.getCurrentUrl()` `.getPageSource()` `.getWindowsHandle()` `.getWindowsHandles()` `.switchTo()` `.navigate()` `.manage()`
 
 `driver.close()` `driver.quit()`
 * __Navigation Methods:__
@@ -35,7 +32,7 @@
     
 Single Target:`driver.findElement(By. )`&  Several Target:`driver.findElements(By. )`
         
-[Selenium(webDriver)  Methods](http://onlinetraining.etestinghub.com/webdriver-methods-web-elements/)       
+[more..](http://onlinetraining.etestinghub.com/webdriver-methods-web-elements/)       
      
 |1- findElement(By.  )    | 2- Web operation on web elements |
 | ----------------------- |--------------------------------: |
@@ -151,12 +148,12 @@ public class Tutorial{
 ```
 * 2-__`explicit waite :`__  `WebDriverWait( )` class
 
-    Target specific element or scenario to wait for n number seconds before throw exception [check for more and syntax...](https://www.swtestacademy.com/selenium-webdriver-wait/)
+    Target specific element or scenario to wait for n number seconds before throw exception [check for more...](https://www.swtestacademy.com/selenium-webdriver-wait/)
 ```java
 public class Tutorial{
     WebDriverWait waitHere = new WebDriverWait(driver, 20);
 
-    waitHere.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(' '))); // just for this target
+    waitHere.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(' ')));// just for this target
 
 //  waitHere.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath('')));
 //  waitHere.until(ExpectedConditions.elementToBeClickable(BY.xpath('')));
@@ -173,7 +170,31 @@ public class Tutorial{
 
 ---
 ### Actions:  
- class(Hover mouse)
+ 
+__Keyboard interface:__ ` sendKeys(keyToSend)` `keyDown(theKey)` `keyUp(theKey)`
+
+__Mouse Interface:__ `click()`  `doubleClick()`  `contextClick()` `clickAndHold()` `dragAndDrop(source,target)` `dragAndDropBy(source,x-offset,y-offset)` `moveByOffset(x-offset,y-offset)` `moveToElement(toElement)` `release()` [more...](https://www.edureka.co/blog/keyboard-mouse-events-actions-class)
+
+* __Hover Mouse__
+* __double click__
+* __right click__
+* __Send Capital letter__
+
+```java
+public class ActMouseAndKey{ // Hover mouse
+
+ driver.get('https://www.amazon.com');
+ Actions a = new Actions(driver);
+ WebElement target = driver.findElement(By.xpath(" "));
+
+ a.moveToElement(target).build().perform(); //Hover
+ a.moveToElement(target).doubleClick.build().perform();//doubleClick
+ a.moveToElement(target).contextClick().build().perform();// right click
+ a.moveToElement(target).click().keyDown(keys.SHIFT).sendKey('hello').build().perform();//send capital letter 'hello'
+
+}
+```
+
 
 
 ---
