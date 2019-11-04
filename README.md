@@ -94,24 +94,6 @@ public class Tutorial{
 
 
 ---
-
-### ` PopUp ` 
-
-* 1- `javaScript popUp : ` Use ` SwitchTo().alert() ` Methods
-
-    when you have popUp and you can't get any Html path or attribute for selecting
-
-```java
-public class Tutorial{
-// after rich the website and have popUp
-
-        driver.switchTo()alert().accept();   
-// or   driver.switchTo().alert().dismiss();
-//      driver.switchTo().alert().getText();    //text in the popup
-//      driver.switchTo().alert().sendKeys(" "); and more ...
-
-}
-```
 *  2- `Web related popUp :`
 
     just like normal case select the Target by: findElement(By. )
@@ -132,7 +114,7 @@ Import TestNg JRE to Library or get Plugin
 ---
 ### `Synchronization :`
 
-* 1-__`implicit waite:`__
+* __1-`implicit waite:`__
 
     Declare globally wait for n number seconds before throw exception or test fail and return result from Dom
 
@@ -146,7 +128,7 @@ public class Tutorial{
 }
 
 ```
-* 2-__`explicit waite :`__  `WebDriverWait( )` class
+* __2-`explicit waite :`__  `WebDriverWait( )` class
 
     Target specific element or scenario to wait for n number seconds before throw exception [check for more...](https://www.swtestacademy.com/selenium-webdriver-wait/)
 ```java
@@ -181,24 +163,89 @@ __Mouse Interface:__ `click()`  `doubleClick()`  `contextClick()` `clickAndHold(
 * __Send Capital letter__
 
 ```java
-public class ActMouseAndKey{ // Hover mouse
+public class ActMouseAndKey{
 
  driver.get('https://www.amazon.com');
  Actions a = new Actions(driver);
  WebElement target = driver.findElement(By.xpath(" "));
 
  a.moveToElement(target).build().perform(); //Hover
- a.moveToElement(target).doubleClick.build().perform();//doubleClick
+ a.moveToElement(target).doubleClick().build().perform();//doubleClick
  a.moveToElement(target).contextClick().build().perform();// right click
  a.moveToElement(target).click().keyDown(keys.SHIFT).sendKey('hello').build().perform();//send capital letter 'hello'
 
 }
 ```
+---
+* __driver.SwitchTo() 📌:__
 
+Moving to\between  __`windows/tabs`__, __`frames`__ or __`popUp`__ 
+
+    1- driver.switchTo().alert()  //  popUp
+    2- driver.switchTo()window()  //  getWindowHandle/Handles
+    3- driver.switchTo()frame()   //  frame
+
+   [More..](https://www.toolsqa.com/selenium-webdriver/switch-commands/)
+
+---
+### `1- PopUp ` 
+
+* 1- `javaScript popUp : ` Use ` SwitchTo().alert() ` Methods
+
+    when you have popUp and you can't get any Html path or attribute for selecting
+
+```java
+public class Tutorial{
+// after rich the website and have popUp
+
+        driver.switchTo()alert().accept();   
+// or   driver.switchTo().alert().dismiss();
+//      driver.switchTo().alert().getText();    //text in the popup
+//      driver.switchTo().alert().sendKeys(" "); and more ...
+
+}
+```
+---
+### 2- Handel Windows
+
+* __`getWindowsHandles`__
+
+```java
+public class WindowsHandles{
+    driver.findElement(By.xpath('')));// Target
+    // when there is multiply tab\windows
+    Set<String> allWindows = driver.getWindowHandles(driver); //catch all open Tab/Windows
+    iterator<String> item = allWindows.iterator(); //interface iterator for collecting open windows/Tab in current browser 
+    String parent = item.next(); // first Tab
+    String child1 = item.next(); // second Tab
+    String child2 = item.next(); // Third Tab
+
+// after make it separate, switch and move between Tabs\Windows
+    driver.switchTo().window(child1); // from parent to child1
+    driver.switchTo().window(parent); // from child to parent
+}
+```
+```java
+    public static WindowsHandle2{
+
+    driver.findElement(By.xpath('')); //Target
+
+     Set<String> allWindows = driver.getWindowsHandles(driver); //catch all Tabs
+    ArrayList<String> listOfWindows = new ArrayList<>(allWindows);// convert Set to Array and use Array Methods
+    // parent = listOfArray.get(0), child1 = listOfArray.get(1), child2 = listOfArray.get(2)
+
+    //time to switch:
+    driver.switchTo().window(listOfArray.get(2)); // switch to 2 child
+    driver.switchTo().window(listOfArray.get(0)); // back to parent window again
+}
+```
+
+ `getWindowHandle` 
+
+*  Handel Frame and child windows
 
 
 ---
-*  Handel Frame and child windows
 * handel Radio Button and checkBox
 ---- 
 
