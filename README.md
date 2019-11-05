@@ -92,11 +92,6 @@ public class Tutorial{
 
     Test the auto Suggestive with methods: `sendkeys(key. )` `sendKeys("")` `clear()` `getText()`
 
-
----
-*  2- `Web related popUp :`
-
-    just like normal case select the Target by: findElement(By. )
 ---
 
 ### `Assertions :`
@@ -183,7 +178,7 @@ Moving to\between  __`windows/tabs`__, __`frames`__ or __`popUp`__
 
     1- driver.switchTo().alert()  //  popUp
     2- driver.switchTo()window()  //  getWindowHandle/Handles
-    3- driver.switchTo()frame()   //  frame
+    3- driver.switchTo()frame()   //  frame 
 
    [More..](https://www.toolsqa.com/selenium-webdriver/switch-commands/)
 
@@ -205,13 +200,18 @@ public class Tutorial{
 
 }
 ```
----
-### 2- Handel Windows
+*  2- `Web related popUp :`
 
-* __`getWindowsHandles`__
+    just like normal case select the Target by: findElement(By. )
+
+---
+### 2- Handel child windows
+
+* __`1- getWindowsHandles`__
 
 ```java
 public class WindowsHandles{
+
     driver.findElement(By.xpath('')));// Target
     // when there is multiply tab\windows
     Set<String> allWindows = driver.getWindowHandles(driver); //catch all open Tab/Windows
@@ -226,7 +226,7 @@ public class WindowsHandles{
 }
 ```
 ```java
-    public static WindowsHandle2{
+public class WindowsHandle2{
 
     driver.findElement(By.xpath('')); //Target
 
@@ -240,16 +240,30 @@ public class WindowsHandles{
 }
 ```
 
- `getWindowHandle` 
+* `2- getWindowHandle` 
 
-*  Handel Frame and child windows
+___
 
+### 3- Handel Frame :
+
+```java
+    driver.switchTo().frame(driver.findElement(By.)); // intro frame by locator
+    driver.switchTo().frame(0) // intro frame by index
+
+    //example: drag and drop By Actions inside of frame
+
+    Actions a = new Actions(driver);
+    a.dragAndDrop('from source locator','to target locater').build().perform();
+
+    // back to parent Tab\Window from the Frame
+    driver.switchTo()frame().defaultContent();
+```
 
 ---
 * handel Radio Button and checkBox
 ---- 
 
-## 1- __TestNg__
+# __TestNg__
     
 
 * `@Test`
@@ -284,12 +298,13 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
 * Add ` Dependencies ` from the [Mvnrepository](https://mvnrepository.com 'https:mvnrepository.com') in ` Pom.Xml ` and manage buildPath
     
     * Make  ` Feature `  file 
-        * Write  ` Scenario `     
-        * `Given`
-        * `When`
-        * `But`
-        * `Then`
-        * `And`
+        * `Feature:`
+        * Write  ` Scenario: `     
+        * `Given:`
+        * `When:`
+        * `But:`
+        * `Then:`
+        * `And:`
 
 
     
