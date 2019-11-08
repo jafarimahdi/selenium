@@ -873,3 +873,358 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact velocity-tool
 2019-11-02 23:10:08,784 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
 2019-11-02 23:10:08,786 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-02 23:10:08,787 [Worker-310: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 13:11:54,224 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:11:54,225 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 13:11:54,227 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:11:54,227 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 13:12:09,857 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:12:09,857 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 13:12:09,858 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:12:09,859 [Worker-817: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 13:12:18,328 [Worker-824: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:12:18,328 [Worker-824: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 13:12:18,330 [Worker-824: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:12:18,330 [Worker-824: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 13:14:34,767 [Worker-820: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:14:34,768 [Worker-820: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 13:14:34,769 [Worker-820: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 13:14:34,769 [Worker-820: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 14:29:21,121 [Worker-833: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 14:29:21,129 [Worker-833: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 14:29:21,129 [Worker-833: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 14:29:21,129 [Worker-833: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:01:19,923 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:01:19,924 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:01:19,925 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:01:19,926 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:01:34,772 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:01:34,772 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:01:34,773 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:01:34,773 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:02:17,052 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:02:17,052 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:02:17,053 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:02:17,053 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:03:14,133 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:03:14,134 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:03:14,135 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:03:14,135 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:05:29,474 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:05:29,474 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:05:29,475 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:05:29,475 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:06:27,692 [Worker-854: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:06:27,692 [Worker-854: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:06:27,693 [Worker-854: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:06:27,693 [Worker-854: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:06:34,710 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:06:34,711 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:06:34,712 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:06:34,712 [Worker-852: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:07:35,863 [Worker-853: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:07:35,864 [Worker-853: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:07:35,866 [Worker-853: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:07:35,866 [Worker-853: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:07:51,879 [Worker-850: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:07:51,880 [Worker-850: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:07:51,881 [Worker-850: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:07:51,881 [Worker-850: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:20:00,209 [Worker-856: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:20:00,210 [Worker-856: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:20:00,212 [Worker-856: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:20:00,213 [Worker-856: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 16:29:34,401 [Worker-861: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:29:34,402 [Worker-861: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 16:29:34,404 [Worker-861: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 16:29:34,405 [Worker-861: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 22:59:53,565 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 22:59:53,568 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 22:59:53,570 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 22:59:53,571 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:00:40,132 [Worker-926: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:00:40,132 [Worker-926: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:00:40,134 [Worker-926: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:00:40,134 [Worker-926: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:01:22,812 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:01:22,813 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:01:22,814 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:01:22,815 [Worker-925: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:04:17,727 [Worker-925: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:04:17,728 [Worker-925: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:04:17,729 [Worker-925: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:04:17,729 [Worker-925: Launching Login] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:08:01,230 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:08:01,231 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:08:01,231 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:08:01,231 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:08:38,816 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:08:38,817 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:08:38,819 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:08:38,819 [Worker-928: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:11:44,416 [Worker-930: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:11:44,416 [Worker-930: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:11:44,417 [Worker-930: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:11:44,417 [Worker-930: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-05 23:12:52,330 [Worker-931: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:12:52,330 [Worker-931: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-05 23:12:52,332 [Worker-931: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-05 23:12:52,332 [Worker-931: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 16:41:50,450 [Worker-1036: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:41:50,451 [Worker-1036: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 16:41:50,452 [Worker-1036: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:41:50,458 [Worker-1036: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 16:42:14,500 [Worker-1042: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:14,501 [Worker-1042: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 16:42:14,503 [Worker-1042: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:14,503 [Worker-1042: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 16:42:16,471 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:16,471 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 16:42:16,472 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:16,472 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 16:42:35,120 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:35,121 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 16:42:35,122 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:35,122 [Worker-1043: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 16:42:48,020 [Worker-1041: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:48,020 [Worker-1041: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 16:42:48,021 [Worker-1041: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 16:42:48,022 [Worker-1041: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-06 23:39:35,561 [Worker-1063: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 23:39:35,564 [Worker-1063: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-06 23:39:35,565 [Worker-1063: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 23:39:35,565 [Worker-1063: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:47:39,058 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:47:39,059 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:47:39,061 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:47:39,061 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:49:55,310 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:55,311 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:49:55,311 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:55,311 [Worker-1077: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:49:56,531 [Worker-1082: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:56,531 [Worker-1082: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:49:56,532 [Worker-1082: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:56,532 [Worker-1082: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:49:57,541 [Worker-1083: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:57,541 [Worker-1083: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:49:57,541 [Worker-1083: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:49:57,541 [Worker-1083: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:52:00,837 [Worker-1079: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:00,837 [Worker-1079: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:52:00,838 [Worker-1079: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:00,839 [Worker-1079: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:52:01,954 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:01,954 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:52:01,955 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:01,955 [Worker-1087: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 00:52:02,962 [Worker-1077: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:02,962 [Worker-1077: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 00:52:02,963 [Worker-1077: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 00:52:02,963 [Worker-1077: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 09:59:56,633 [Worker-1107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 09:59:56,635 [Worker-1107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 09:59:56,684 [Worker-1107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 09:59:56,684 [Worker-1107: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 09:59:57,701 [Worker-1110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 09:59:57,701 [Worker-1110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 09:59:57,702 [Worker-1110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 09:59:57,702 [Worker-1110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:05:22,795 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:05:22,795 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:05:22,796 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:05:22,796 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:05:23,814 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:05:23,815 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:05:23,816 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:05:23,816 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:08:20,692 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:08:20,693 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:08:20,695 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:08:20,696 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:08:21,709 [Worker-1122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:08:21,709 [Worker-1122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:08:21,709 [Worker-1122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:08:21,709 [Worker-1122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:11:17,132 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:11:17,133 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:11:17,135 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:11:17,135 [Worker-1111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:11:18,148 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:11:18,148 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:11:18,149 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:11:18,149 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:14:28,402 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:14:28,402 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:14:28,403 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:14:28,403 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:14:29,414 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:14:29,415 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:14:29,415 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:14:29,416 [Worker-1114: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:17:00,724 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-07 10:17:01,919 [Worker-1: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+'
+2019-11-07 10:19:18,875 [Worker-7: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:19:18,876 [Worker-7: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:19:18,878 [Worker-7: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:19:18,879 [Worker-7: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:20:49,022 [Worker-13: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:20:49,022 [Worker-13: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:20:49,024 [Worker-13: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:20:49,025 [Worker-13: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:21:14,245 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:21:14,245 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:21:14,248 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:21:14,248 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:23:45,791 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:23:45,792 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:23:45,798 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:23:45,799 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:30:37,987 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:30:37,988 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:30:37,989 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:30:37,989 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:31:58,044 [Worker-21: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:31:58,045 [Worker-21: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:31:58,047 [Worker-21: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:31:58,049 [Worker-21: Launching MainRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 10:33:28,156 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:33:28,157 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 10:33:28,159 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 10:33:28,159 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 15:08:09,307 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 15:08:09,308 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 15:08:09,309 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 15:08:09,309 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-07 15:09:49,048 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 15:09:49,049 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-07 15:09:49,052 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-07 15:09:49,053 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-08 10:48:40,220 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-08 10:48:41,845 [Worker-1: Decoration Calculation] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, --version]' in '/usr/bin', return code '1', error message 'xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+'
+2019-11-08 11:58:03,484 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/JM/greenFox/selenium/cucumber/project1/pom.xml
+2019-11-08 11:58:04,427 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.webDriverUniversity:project1:0.0.1-SNAPSHOT @ /Users/JM/greenFox/selenium/cucumber/project1/pom.xml.
+2019-11-08 11:58:05,150 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/main/java
+2019-11-08 11:58:05,157 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/test/java
+2019-11-08 11:58:05,219 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-11-08 11:58:05,738 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:58:05,738 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 11:58:05,739 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:58:05,739 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 11:58:41,341 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:58:41,341 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 11:58:41,343 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:58:41,344 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 11:59:19,860 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:59:19,860 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 11:59:19,862 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 11:59:19,862 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:00:29,058 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:00:29,058 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:00:29,063 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:00:29,063 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:00:46,095 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:00:46,096 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:00:46,099 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:00:46,100 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:01:57,002 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:01:57,002 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:01:57,005 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:01:57,005 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:02:54,518 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:02:54,518 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:02:54,519 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:02:54,519 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:31:45,312 [Takari usage stats reporter] INFO  i.t.s.m.i.UsageStatsActivator - Reporting usage stats url=https://stats.takari.io/stats, body={"java.version":"12.0.2","java.vendor":"Oracle Corporation","os.name":"Mac OS X","os.arch":"x86_64","os.version":"10.15.1","eclipse.product":"org.eclipse.epp.package.java.product","eclipse.buildId":"4.12.0.I20190605-1800","projectCount":2,"bundles":[{"symbolicName":"org.eclipse.osgi","version":"3.14.0.v20190517-1309"},{"symbolicName":"org.eclipse.m2e.core","version":"1.12.0.20190529-1916"},{"symbolicName":"io.takari.stats.m2e","version":"0.1.0.201506181201"}],"mavenPlugins":{"org.apache.maven.plugins:maven-clean-plugin:2.5:clean":[],"org.apache.maven.plugins:maven-compiler-plugin:3.1:compile":["configurator"],"org.apache.maven.plugins:maven-compiler-plugin:3.1:testCompile":["configurator"],"org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy":[],"org.apache.maven.plugins:maven-install-plugin:2.4:install":[],"org.apache.maven.plugins:maven-jar-plugin:2.4:jar":["configurator"],"org.apache.maven.plugins:maven-resources-plugin:2.6:resources":["execute"],"org.apache.maven.plugins:maven-resources-plugin:2.6:testResources":["execute"],"org.apache.maven.plugins:maven-site-plugin:3.3:site":[],"org.apache.maven.plugins:maven-surefire-plugin:2.12.4:test":[],"org.apache.maven.plugins:maven-surefire-plugin:2.19.1:test":[]}}
+2019-11-08 12:31:46,670 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:31:46,670 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:31:46,671 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:31:46,672 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:32:03,480 [Takari usage stats reporter] ERROR i.t.s.m.i.fragment16.HttpClient16 - Could not submit usage statistics to https://stats.takari.io/stats
+java.net.SocketTimeoutException: connect timed out
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242) ~[na:na]
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224) ~[na:na]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403) ~[na:na]
+	at java.base/java.net.Socket.connect(Socket.java:591) ~[na:na]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:130) ~[na:na]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:263) ~[na:na]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:183) ~[na:na]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.java:224) ~[na:na]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.java:107) ~[na:na]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.java:87) ~[na:na]
+	at okhttp3.internal.connection.Transmitter.newExchange(Transmitter.java:169) ~[na:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:41) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:142) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:117) ~[na:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:94) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:142) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:117) ~[na:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:142) ~[na:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:88) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:142) ~[na:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:117) ~[na:na]
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:221) ~[na:na]
+	at okhttp3.RealCall.execute(RealCall.java:81) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.execute(OkHttpAetherClient.java:215) ~[na:na]
+	at io.takari.aether.okhttp.OkHttpAetherClient.put(OkHttpAetherClient.java:209) ~[na:na]
+	at io.takari.stats.m2e.internal.fragment16.HttpClient16.post(HttpClient16.java:42) ~[na:na]
+	at io.takari.stats.m2e.internal.UsageStatsActivator.post(UsageStatsActivator.java:310) ~[na:na]
+	at io.takari.stats.m2e.internal.UsageStatsActivator.reportUsageStats(UsageStatsActivator.java:219) ~[na:na]
+	at io.takari.stats.m2e.internal.UsageStatsActivator$2.run(UsageStatsActivator.java:163) ~[na:na]
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556) ~[na:na]
+	at java.base/java.util.TimerThread.run(Timer.java:506) ~[na:na]
+2019-11-08 12:43:25,612 [Worker-36: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.webDriverUniversity:project1:0.0.1-SNAPSHOT @ /Users/JM/greenFox/selenium/cucumber/project1/pom.xml.
+2019-11-08 12:43:26,078 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:26,078 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:43:26,079 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:26,080 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:43:27,470 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:27,470 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:43:27,471 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:27,471 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:43:41,231 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:41,231 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:43:41,234 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:43:41,241 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 12:56:56,414 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:56:56,415 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 12:56:56,416 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 12:56:56,416 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 13:05:03,478 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:03,479 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-08 13:05:03,480 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:03,480 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-08 13:05:03,581 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:03,581 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 13:05:03,583 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:03,583 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 13:05:37,228 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-08 13:05:37,562 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.webDriverUniversity:project1:0.0.1-SNAPSHOT @ /Users/JM/greenFox/selenium/cucumber/project1/pom.xml.
+2019-11-08 13:05:37,766 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.webDriverUniversity:CucumberFramwork:0.0.1-SNAPSHOT @ /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/pom.xml.
+2019-11-08 13:05:37,935 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/main/java
+2019-11-08 13:05:37,935 [Worker-41: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/test/java
+2019-11-08 13:05:38,154 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-11-08 13:05:38,394 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:38,394 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/main/resources
+2019-11-08 13:05:38,395 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:38,396 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/CucumberFramwork/src/test/resources
+2019-11-08 13:05:38,536 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:38,537 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 13:05:38,538 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:05:38,538 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 13:40:52,546 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:40:52,547 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 13:40:52,549 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:40:52,549 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 13:51:24,454 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:51:24,455 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 13:51:24,456 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:51:24,456 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources
+2019-11-08 13:51:28,572 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:51:28,572 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/main/resources
+2019-11-08 13:51:28,573 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-08 13:51:28,573 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JM/greenFox/selenium/cucumber/project1/src/test/resources

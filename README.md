@@ -293,18 +293,40 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
 ***    
     
     
-## 2- __Cucumber(Gherkin)__
+##  __Cucumber(Gherkin)__
 
 * Add ` Dependencies ` from the [Mvnrepository](https://mvnrepository.com 'https:mvnrepository.com') in ` Pom.Xml ` and manage buildPath
     
-    * Make  ` Feature `  file 
-        * `Feature:`
-        * Write  ` Scenario: `     
-        * `Given:`
-        * `When:`
-        * `But:`
-        * `Then:`
-        * `And:`
+### __` Feature :`__
 
 
-    
+    Feature:
+
+    Background:
+
+    Scenario: 
+
+            Given:
+
+            When:
+
+            But:    
+
+            And:
+      
+            Then:
+
+            Scenario Outline: 
+
+
+### Steps class :
+* Convert the feature file with Run Configurations to step class and add to java class Given file 
+
+
+
+
+### Runner class :
+
+    1- choice the run witch feature file
+    2- create generate Html/Json report for the failed
+    3- 
