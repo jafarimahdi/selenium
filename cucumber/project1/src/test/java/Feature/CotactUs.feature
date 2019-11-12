@@ -1,13 +1,15 @@
 Feature:
-Submit data in WebDriverUniversit.com using contact us from a user should be  submit information via the contact 
-	us from if user click on the reset button than all information should be removed from the contact us form
+Submit data in WebDriverUniversit.com using contact us form, user should be able to submit information via the contact 
+	us form, if user click on the reset button than all information should be remove from the contact us form.
+	
+Background: 
+	Given access webdriverunivesity page 
+	When click the contact us button 
   
 Scenario: Submit information to use contact 
 
-	Given access webdriverunivesity page 
-	When click the contact us button 
 	And enter useName 
-	And enter the password 
+	And enter the password  
 	And enter email adress 
 	And enter comments 
 	When I click the submit button 
@@ -26,4 +28,6 @@ Enter information to the contact us form, when click on the reset button then in
 	And enter comments 
 	When I click  on the reset button 
 	Then all the information by user were listed, should be remove 
-	
+	 
+	 
+	 // video 25  watched

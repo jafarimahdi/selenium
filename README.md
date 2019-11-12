@@ -283,7 +283,7 @@ ___
 #### Parameterising:
 
 * `@Parameters({" "})`, In Xml => <parameter name=" " value=" " /> *folder level*
-* `@Test(dataProvider=" ")` => @DataProvider && Object[][]         *Mehtod level*
+* `@Test(dataProvider=" ")` => @DataProvider && Object[ ][ ]         *Mehtod level*
     
 ### Listener: catch failed Test
     
@@ -295,38 +295,90 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
     
 ##  __Cucumber(Gherkin)__
 
+![](https://github.com/jafarimahdi/Test_Automation/pic/Cucumber.png)
+
 * Add ` Dependencies ` from the [Mvnrepository](https://mvnrepository.com 'https:mvnrepository.com') in ` Pom.Xml ` and manage buildPath
     
-### __` Feature :`__
+### 1-Feature :
 
 
     Feature:
 
-    Background:
+    Background:  when have same step in the scenario in one feature file we can use it
 
-    Scenario: 
+    1-Scenario:   ||  2-Scenario Outline:   Examples:
 
-            Given:
+       Given:
 
-            When:
+       When:
 
-            But:    
+       But:    
 
-            And:
+       And:
       
-            Then:
-
-            Scenario Outline: 
+       Then:
 
 
-### Steps class :
-* Convert the feature file with Run Configurations to step class and add to java class Given file 
+---
+### 2-Steps Class :
+* Convert `.Feature` file with `Run Configurations` to `Steps.java` class
+
+---
+### 3- Cucumber Option
+Runner Class :
+
+Make connection between `Steps` and `Feature` Part
+ 
+    @RunWith(Cucumber.class)
+
+    @CucumberOptions(features = {location where feature file saved}, 
+    glue = {"CucumberFramework/steps" }, 
+    monochrome = true, 
+    tags = {}, 
+    plugin = { "pretty", "html:target/cucumber",
+	"json:target/cucumber.json","com.cucumber.listener.ExtentCucumberFormatter:target/report.html" })
+
+ 
+---
+ #### Trick ❗️
+
+   * 1- Parametrization: `"valid"  & "invalid"`
+
+         when we have the same step and just few step is different we use parametrization
+
+  * 2- Data Tables (Structuring Our Test Data): ❗️in the __Steps Class__   __`\"([^\"*)\`__
+
+        Have multiple data EX:'passwords/names/emails' and use the Row and Column to send/use one of them  
+
+---
+
+ #### Scenario Outline ❗️    In the .Feature    __`"<  >"`__
+
+   where you want put the data use  "< >"
 
 
+    Examples:
 
+    |    url                   |userName     |   password |   message   |
+    | www.webUniversity.com    | john Smit   |  1234567   | first user  |
+    | www.someWebPage.com      |jeffry jason |  32758990  | second user | 
+---
 
-### Runner class :
+#### Hooks: 
 
-    1- choice the run witch feature file
-    2- create generate Html/Json report for the failed
-    3- 
+    @Before() : before any method it run
+    @After()  :  after all methods it run
+
+---
+### Tags
+
+1- in the `Feature` file we can use `@SomeName` Tag ❗️ for one or more scenario or one Feature file 
+
+2- and in the `Runner class` in `Tag{ @SomeName  }` we can mention it for running time
+
+---
+ 
+ #### XML
+
+ 36: for mange the Runner classes we can make xml file and use the all Runner Class easily
+
