@@ -295,16 +295,16 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
     
 ##  __Cucumber(Gherkin)__
 
-<image src="https://raw.githubusercontent.com/jafarimahdi/Test_Automation/master/pic/Cucumber.png" width=400>
+<image src="https://raw.githubusercontent.com/jafarimahdi/Test_Automation/master/pic/Cucumber.png" width=500>
 
 * Add ` Dependencies ` from the [Mvnrepository](https://mvnrepository.com 'https:mvnrepository.com') in ` Pom.Xml ` and manage buildPath
     
 ### 1-Feature :
-
+ 
 
     Feature:
 
-    Background:  when have same step in the scenario in one feature file we can use it
+    Background: when have the same step in the more than one scenario in one feature file we can use it
 
     1-Scenario:   ||  2-Scenario Outline:   Examples:
 
@@ -319,16 +319,37 @@ implement interface listener class && in the XML => <Listeners, Listener class-n
        Then:
 
 
+#### Scenario Outline ❗️    In the .Feature    __`"<  >"`__
+
+   where you want put the data use  "< >"
+
+
+    Examples:
+
+    |    url                   |userName     |   password |   message   |
+    | www.webUniversity.com    | john Smit   |  1234567   | first user  |
+    | www.someWebPage.com      |jeffry jason |  32758990  | second user | 
+
 ---
 ### 2-Steps Class :
 * Convert `.Feature` file with `Run Configurations` to `Steps.java` class
+
+#### Trick ❗️
+
+   * 1- Parametrization: `"valid"  & "invalid"`
+
+         when we have the same step and just few step is different we use parametrization
+
+  * 2- Data Tables (Structuring Our Test Data): ❗️in the __Steps Class__   __`\"([^\"*)\`__
+
+        Have multiple data EX:'passwords/names/emails' and use the Row and Column to send/use one of them 
 
 ---
 ### 3- Runner Class : 
 __Cucumber Option__
 
 
-Make connection between `Steps` and `Feature` Part
+Make connection between `Steps` and `Feature` files
  
     @RunWith(Cucumber.class)
 
@@ -340,29 +361,6 @@ Make connection between `Steps` and `Feature` Part
 	"json:target/cucumber.json","com.cucumber.listener.ExtentCucumberFormatter:target/report.html" })
 
  
----
- #### Trick ❗️
-
-   * 1- Parametrization: `"valid"  & "invalid"`
-
-         when we have the same step and just few step is different we use parametrization
-
-  * 2- Data Tables (Structuring Our Test Data): ❗️in the __Steps Class__   __`\"([^\"*)\`__
-
-        Have multiple data EX:'passwords/names/emails' and use the Row and Column to send/use one of them  
-
----
-
- #### Scenario Outline ❗️    In the .Feature    __`"<  >"`__
-
-   where you want put the data use  "< >"
-
-
-    Examples:
-
-    |    url                   |userName     |   password |   message   |
-    | www.webUniversity.com    | john Smit   |  1234567   | first user  |
-    | www.someWebPage.com      |jeffry jason |  32758990  | second user | 
 ---
 
 #### Hooks: 
@@ -383,3 +381,15 @@ Make connection between `Steps` and `Feature` Part
 
  36: for mange the Runner classes we can make xml file and use the all Runner Class easily
 
+--- 
+### Page Object Model 
+
+    1- Page Class Contains,  package: By(f) 
+        . Element Locaters
+        . Method performing operation on elements
+
+    2- Test class Contains, class: LoginElements( )
+        . Actual test scenario
+        . Calls to methods in page lass with arguments
+
+### Page Factory
