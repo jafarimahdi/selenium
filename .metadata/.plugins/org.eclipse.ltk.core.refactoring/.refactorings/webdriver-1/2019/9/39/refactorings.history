@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;webDriver.ActionDemo&apos; to &apos;ActionDemo_HoverMouse&apos;&#x0A;- Original project: &apos;webdriver-1&apos;&#x0A;- Original element: &apos;webDriver.ActionDemo&apos;&#x0A;- Renamed element: &apos;webDriver.ActionDemo_HoverMouse&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ActionDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;webDriver{ActionDemo.java[ActionDemo" matchStrategy="1" name="ActionDemo_HoverMouse" qualified="false" references="true" similarDeclarations="false" stamp="1569526482189" textual="false" version="1.0"/>
+</session>
